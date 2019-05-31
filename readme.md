@@ -18,3 +18,9 @@
 9.	Multiple Entry Points
 10.	Minification & Extraction
 11.	ES6 -> ES5 – Setup up Babel
+
+
+1. Clone
+2. npm i
+3. npm run build for prod
+4. npm start for dev
